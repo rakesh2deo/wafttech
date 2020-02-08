@@ -1,0 +1,10 @@
+
+1.import webproxy.zip file in any ide(eclipse,intellige)
+2.run .jar file of project
+
+3. for  example run three server , 
+e.g.http://localhost:8081,  http://localhost:8082,  http://localhost:8083
+
+4: all the server are mentioned in application.properties file of "webproxy" project
+5. run main  application file of "webproxy" project 
+6. run get and post request on browser. e.g: http://localhost:8084/
